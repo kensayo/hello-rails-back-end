@@ -7,5 +7,5 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Message.create([{ message: 'Hello World!' }, { message: 'Welcome my friend to React/Rails/Redux...' },
-    { message: 'Are you still here?' }, { message: 'Dont look me like that..' },
-    { message: 'Why are you here?' }])
+                { message: 'Are you still here?' }, { message: 'Dont look me like that..' },
+                { message: 'Why are you here?' }])
