@@ -8,4 +8,7 @@
 
 Message.create([{ message: 'Hello World!' }, { message: 'Welcome my friend to React/Rails/Redux...' },
                 { message: 'Are you still here?' }, { message: 'Dont look me like that..' },
-                { message: 'Why are you here?' }])
+                { message: 'Why are you here?' }, { message: 'Hello?..' },
+                { message: 'Stop clicking!...' }, { message: 'Leave your message.. Ok no.' },
+                { message: 'Microverse Rules! Did you know it?' },
+                { message: 'This was build using React and Rails, awesome right?' }])
