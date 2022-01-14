@@ -1,24 +1,59 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Greetings! (Back End)
 
-Things you may want to cover:
+>  API for greetings messages
 
-* Ruby version
+### Built using
+    - Ruby
+    - Ruby On Rails
+    - Rubocop
+    - PostgreSQL
+    - Github
+    - RubyMine
 
-* System dependencies
+## Getting Started
 
-* Configuration
+- To get a local copy up and running follow these simple example steps.
+- Also if you want to try out the **Frontend** you can find the repository [here](https://github.com/kensayo/hello-world-frontend)
 
-* Database creation
+## Prerequisites
 
-* Database initialization
+* Make sure that **Ruby Environment** is installed in your computer (try to run _ruby_ from your prompt), if not you can install it from [here.](https://www.ruby-lang.org/en/downloads/)
 
-* How to run the test suite
+* [Download](https://github.com/kensayo/hello-rails-back-end/archive/refs/heads/development.zip) and unzip **or** [clone this repository](https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
-* Services (job queues, cache servers, search engines, etc.)
+* If you want to see the API in action, you should also download the [Front End repository](https://github.com/kensayo/hello-world-frontend)
 
-* Deployment instructions
 
-* ...
+## Setup
+
+- After clone or download the repository move to the root of the project
+- Open a terminal there and run the next commands
+```
+// Install dependecies
+bundle install
+// Create the database
+rails db:create
+// Migrate the tables
+rails db:migrate
+// Populate the database
+rails db:seed
+// Start the server
+rails server
+```
+
+## API Endpoint
+
+- [http://localhost:3000/v1/random_message](http://localhost:3000/v1/random_message)
+
+
+## 👤 Kenny Ortega
+
+- GitHub: [kensayo](https://github.com/kensayo)
+- Twitter: [@kensayo](https://twitter.com/kensayo)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kennyortega/)
+
+
+## Contributions and issues are welcome!
+
