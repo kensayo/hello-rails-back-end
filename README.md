@@ -14,7 +14,8 @@
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+- To get a local copy up and running follow these simple example steps.
+- Also if you want to try out the **Frontend** you can find the repository [here](https://github.com/kensayo/hello-world-frontend)
 
 ## Prerequisites
 
@@ -22,12 +23,12 @@ To get a local copy up and running follow these simple example steps.
 
 * [Download](https://github.com/kensayo/hello-rails-back-end/archive/refs/heads/development.zip) and unzip **or** [clone this repository](https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
-* If you want to see the API in action, you can also download de [Front End respository](https://github.com/kensayo/hello-world-frontend)
+* If you want to see the API in action, you should also download the [Front End repository](https://github.com/kensayo/hello-world-frontend)
 
 
 ## Setup
 
-- After clone or download the repository move to the root of the proyect
+- After clone or download the repository move to the root of the project
 - Open a terminal there and run the next commands
 ```
 // Install dependecies
